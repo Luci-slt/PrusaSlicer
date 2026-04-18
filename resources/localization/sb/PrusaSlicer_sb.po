@@ -41,15 +41,15 @@ msgstr "ličba pixelow w X"
 
 #: src/libslic3r/PrintConfig.cpp:1356
 msgid "Speed of the first cooling move"
-msgstr "Geschwindigkeit der ersten Kühlbewegung"
+msgstr "spěšnosć prěnjeho chłódźenskeho pohiba"
 
 #: src/libslic3r/PrintConfig.cpp:5838
 msgid "Output Model Info"
-msgstr "Ausgabe Modellinformationen"
+msgstr "wudaće  modelowych informacijow"
 
 #: src/slic3r/GUI/Tab.cpp:5217
 msgid "WHITE BULLET"
-msgstr "WEISSER PUNKT"
+msgstr "BĚŁY DYPK"
 
 #: src/slic3r/GUI/Tab.cpp:6069
 #, boost-format
@@ -57,46 +57,46 @@ msgid ""
 "\"%1%\" is disabled because \"%2%\" is on in \"%3%\" category.\n"
 "To enable \"%1%\", please switch off \"%2%\""
 msgstr ""
-"\"%1%\" ist deaktiviert, weil \"%2%\" in der Kategorie \"%3%\" eingeschaltet "
-"ist.\n"
-"Um \"%1%\" zu aktivieren, schalten Sie bitte \"%2%\" aus."
+"\"%1%\" je hasnjene, dokelž je \"%2%\" w Kategoriji \"%3%\" zaswěćeny.\n "
+
+"Zo bysće\"%1%\" zaswěćili, dyrbiće \"%2%\" hasnyć."
 
 #: src/slic3r/GUI/ConfigWizard.cpp:863
 msgid "Profile:"
-msgstr "Profil:"
+msgstr "profil:"
 
 #: src/slic3r/GUI/ConfigWizard.cpp:957 src/slic3r/GUI/ConfigWizard.cpp:1148
 #: src/slic3r/GUI/ConfigWizard.cpp:1238 src/slic3r/GUI/ConfigWizard.cpp:1383
 msgid "(All)"
-msgstr "(Alles)"
+msgstr "(wšitko)"
 
 #: src/libslic3r/PrintConfig.cpp:4299 src/slic3r/GUI/Gizmos/GLGizmoSVG.cpp:1971
 msgid "Mirror horizontally"
-msgstr "Horizontal spiegeln"
+msgstr "horicontalnje špihelować"
 
 #: src/libslic3r/PrintConfig.cpp:4300
 msgid "Enable horizontal mirroring of output images"
-msgstr "Horizontale Spiegelung der Ausgabebilder aktivieren"
+msgstr "horicontalne špihelowanje wudawanskich wobrazow zaswěćić"
 
 #: src/libslic3r/PrintConfig.cpp:4305
 msgid "Display vertical mirroring"
-msgstr "Zeige vertikale Spiegelung"
+msgstr "vertikalne špihelowanje pokazać"
 
 #: src/libslic3r/PrintConfig.cpp:4306 src/slic3r/GUI/Gizmos/GLGizmoSVG.cpp:1964
 msgid "Mirror vertically"
-msgstr "Vertikal spiegeln"
+msgstr "vertikalnje špihelować"
 
 #: src/libslic3r/PrintConfig.cpp:4307
 msgid "Enable vertical mirroring of output images"
-msgstr "Vertikale Spiegelung der Ausgabebilder aktivieren"
+msgstr "vertikalne špihelowanje wudawanskich wobrazow zaswěćić"
 
 #: src/slic3r/GUI/Tab.hpp:538
 msgid "Printers"
-msgstr "Drucker"
+msgstr "ćišćak"
 
 #: src/libslic3r/PrintConfig.cpp:4312
 msgid "Display orientation"
-msgstr "Displayausrichtung"
+msgstr "wusměrjenje wobrazowki"
 
 #: src/libslic3r/PrintConfig.cpp:4318
 msgid "Portrait"
@@ -107,7 +107,7 @@ msgstr "Hochformat"
 #: src/slic3r/GUI/ArrangeSettingsDialogImgui.cpp:108
 #: src/slic3r/GUI/Jobs/SLAImportDialog.hpp:123 src/slic3r/GUI/Tab.cpp:5617
 msgid "Fast"
-msgstr "Schnell"
+msgstr "spěšnje"
 
 #: src/libslic3r/PrintConfig.cpp:4325
 msgid "Fast tilt"
