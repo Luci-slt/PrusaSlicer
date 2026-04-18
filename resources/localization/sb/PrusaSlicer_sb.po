@@ -100,7 +100,7 @@ msgstr "wusměrjenje wobrazowki"
 
 #: src/libslic3r/PrintConfig.cpp:4318
 msgid "Portrait"
-msgstr "Hochformat"
+msgstr "wysokoformat" 
 
 #. TRN ArrangeDialog: Type of "Geometry handling"
 #: src/libslic3r/PrintConfig.cpp:4324 src/libslic3r/PrintConfig.cpp:4823
@@ -111,29 +111,29 @@ msgstr "spěšnje"
 
 #: src/libslic3r/PrintConfig.cpp:4325
 msgid "Fast tilt"
-msgstr "Schnelles Kippen"
+msgstr "spěšne nachilenje"
 
 #: src/libslic3r/PrintConfig.cpp:4326
 msgid "Time of the fast tilt"
-msgstr "Dauer des schnellen Kippens"
+msgstr "traće spěšneho nachilenja"
 
 #: src/libslic3r/PrintConfig.cpp:4333 src/libslic3r/PrintConfig.cpp:4822
 #: src/slic3r/GUI/Tab.cpp:5618
 msgid "Slow"
-msgstr "Langsam"
+msgstr "pomału"
 
 #: src/libslic3r/PrintConfig.cpp:4334
 msgid "Slow tilt"
-msgstr "Langsames Kippen"
+msgstr "pomałe nachilenje"
 
 #: src/slic3r/Config/Snapshot.cpp:588
 msgid "Taking a configuration snapshot failed."
-msgstr "Schnappschuss der Konfiguration erstellen fehlgeschlagen."
+msgstr "nahrawanje wobraza konfiguracije njeje so poradźiło."
 
 #. TRN Alert when support is needed. Describes that the object has thin part that may brake during printing
 #: src/libslic3r/Print.cpp:1263
 msgid "Thin fragile part"
-msgstr "Dünnes zerbrechliches Teil"
+msgstr "ćeńki a krjechki dźěl"
 
 #: src/libslic3r/PrintConfig.cpp:2836
 msgid ""
