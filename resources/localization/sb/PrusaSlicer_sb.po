@@ -141,9 +141,9 @@ msgid ""
 "applies to the extruder motor). If left to zero, the retraction speed is "
 "used."
 msgstr ""
-"Die Geschwindigkeit, mit der ein Filament nach dem Einzug wieder in den "
-"Extruder vorgeschoben wird. Falls null, wird die Einzugsgeschwindigkeit "
-"verwendet."
+" spešnosć, z kotrejž so filament po nutřsćahnjenju zaso wroćo do "
+"extrudera sunje. Jeli je hódnota nula, wužiwa so spěšnosć nutřsćahnjenja. "
+""
 
 #: src/libslic3r/ExtrusionRole.cpp:53 src/libslic3r/ExtrusionRole.cpp:84
 #: src/libslic3r/PrintConfig.cpp:1019 src/libslic3r/PrintConfig.cpp:2634
@@ -169,17 +169,17 @@ msgstr ""
 #: src/slic3r/GUI/GUI_Factories.cpp:164 src/slic3r/GUI/Tab.cpp:1551
 #: src/slic3r/GUI/Tab.cpp:1553
 msgid "Support material"
-msgstr "Stützmaterial"
+msgstr "zepěry"
 
 #: src/libslic3r/ExtrusionRole.cpp:55 src/libslic3r/ExtrusionRole.cpp:88
 #: src/libslic3r/PrintConfig.cpp:1851 src/slic3r/GUI/GCodeViewer.cpp:422
 #: src/slic3r/GUI/Tab.cpp:1663
 msgid "Wipe tower"
-msgstr "Reinigungsturm"
+msgstr "wěža za rjedźenje" # Reinigungsturm
 
 #: src/libslic3r/ExtrusionRole.cpp:82 src/slic3r/GUI/Tab.cpp:1539
 msgid "Skirt"
-msgstr "Schürze"
+msgstr "Schürze" # to neje tola žadna fala?!
 
 #: src/libslic3r/Flow.cpp:73
 #, boost-format
