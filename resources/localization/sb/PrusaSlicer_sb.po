@@ -175,19 +175,19 @@ msgstr "zepěry"
 #: src/libslic3r/PrintConfig.cpp:1851 src/slic3r/GUI/GCodeViewer.cpp:422
 #: src/slic3r/GUI/Tab.cpp:1663
 msgid "Wipe tower"
-msgstr "wěža za rjedźenje" # Reinigungsturm
+msgstr "rjedźenska wěža" # Reinigungsturm
 
 #: src/libslic3r/ExtrusionRole.cpp:82 src/slic3r/GUI/Tab.cpp:1539
 msgid "Skirt"
-msgstr "Schürze" # to neje tola žadna fala?!
+msgstr "ramik" # Schürze; to neje tola žadna fala?!
 
 #: src/libslic3r/Flow.cpp:73
 #, boost-format
 msgid ""
 "Cannot calculate extrusion width for %1%: Variable \"%2%\" not accessible."
 msgstr ""
-"Kann die Extrusionsbreite für %1% nicht berechnen: Variable \"%2%\" nicht "
-"zugänglich."
+"Njemóžu ekstrusisku sěrokosć za  %1% wobličić: variabla \"%2%\" njeje "
+"přistupna."
 
 #: src/libslic3r/Format/3mf.cpp:1044
 #, boost-format
@@ -196,7 +196,7 @@ msgid ""
 "\n"
 "\"%1%\""
 msgstr ""
-"Die 3MF-Datei enthält kein gültiges Netz.\n"
+"3MF-dataja nima płaćiwu syć.\n"
 "\n"
 "\"%1%\""
 
@@ -205,16 +205,16 @@ msgid ""
 "The selected 3MF contains seam painted object using a newer version of "
 "PrusaSlicer and is not compatible."
 msgstr ""
-"Das ausgewählte 3MF enthält ein Aufmal-Naht Objekt, das eine neuere Version "
-"von PrusaSlicer verwendet und nicht kompatibel ist."
+"Wuzwolena 3MF-dataja ma namolowanu šowu, kotraž wužiwa nowšu versiju "
+"wot Prusaslicera a tohodla njeje kompatibelna."
 
 #: src/libslic3r/Format/3mf.cpp:2260
 msgid ""
 "The selected 3MF contains multi-material painted object using a newer "
 "version of PrusaSlicer and is not compatible."
 msgstr ""
-"Das ausgewählte 3MF enthält ein mit Multimaterial Aufmal Objekt, das eine "
-"neuere Version von PrusaSlicer verwendet und nicht kompatibel ist."
+"Wuzwolena 3MF-dataja wobsahuje namolowany multimaterialowy objekt, kotryž wužiwa nowšu versiju "
+"wot Prusaslicera a tohodla njeje kompatibelny."
 
 #: src/libslic3r/Format/AMF.cpp:1005
 #, boost-format
@@ -222,8 +222,8 @@ msgid ""
 "The selected amf file has been saved with a newer version of %1% and is not "
 "compatible."
 msgstr ""
-"Die ausgewählte amf-Datei wurde mit einer neueren Version von %1% "
-"gespeichert und ist nicht kompatibel."
+"Wuzwolena amf-dataja so z nowšej versiju wot %1% "
+"składowaše a toholda njeje kompatibelna."
 
 #: src/libslic3r/GCode/PostProcessor.cpp:291
 #, boost-format
@@ -236,38 +236,38 @@ msgid ""
 "consult the manual on how to optionally rename the post-processed G-code "
 "file.\n"
 msgstr ""
-"Nachbearbeitungsskript %1% fehlgeschlagen.\n"
+"Skript za postprocessing wot %1% njeje fungował.\n"
 "\n"
-"Das Nachbearbeitungsskript sollte die G-Code-Datei %2% an Ort und Stelle "
-"ändern, aber die G-Code-Datei wurde gelöscht und wahrscheinlich unter einem "
-"neuen Namen gespeichert.\n"
-"Bitte passen Sie das Nachbearbeitungsskript an, um den G-Code an Ort und "
-"Stelle zu ändern, und lesen Sie im Handbuch nach, wie Sie die "
-"nachbearbeitete G-Code-Datei optional umbenennen können.\n"
+"Postprocessingowy skript by poprawom dyrbjał G-code dataju  %2% na městnje "
+"změnić, ale G-code dataja je so najskerje wotstroniła a pod nowym "
+"mjenom składowała\n"
+"Prošu změnće postprocessingowy skript, zo bysće G-code na městnje "
+"změnili a čitajće w přiručce, kakStelle zu ändern, und lesen Sie im Handbuch nach, wie Sie die "
+"wobdźěłanu G-code dataju optionalnje přemjenujeće.\n"
 
 #: src/libslic3r/GCode.cpp:357
 msgid "There is an object with no extrusions in the first layer."
-msgstr "In der ersten Schicht gibt es ein Objekt ohne Extrusionen."
+msgstr "W prěnjej woršće je objekt bjez ekstrusijow."
 
 #: src/libslic3r/GCode.cpp:358 src/libslic3r/PrintObjectSlice.cpp:904
 #: src/libslic3r/PrintObjectSlice.cpp:920
 #: src/slic3r/GUI/GUI_ObjectManipulation.cpp:183
 msgid "Object name"
-msgstr "Objektname"
+msgstr "mjeno objekta"
 
 #: src/libslic3r/GCode.cpp:388
 #, boost-format
 msgid "Empty layer between %1% and %2%."
-msgstr "Leere Schicht zwischen %1% und %2%."
+msgstr "prózdna woršta mjez %1% a %2%."
 
 #: src/libslic3r/GCode.cpp:391
 msgid "(Some lines not shown)"
-msgstr "(Einige Zeilen nicht gezeigt)"
+msgstr "(někotre linki so njepokazaja)"
 
 #: src/libslic3r/GCode.cpp:393
 #, boost-format
 msgid "Object name: %1%"
-msgstr "Objekt Name: %1%"
+msgstr "mjeno objekta: %1%"
 
 #: src/libslic3r/GCode.cpp:394
 msgid ""
@@ -275,7 +275,7 @@ msgid ""
 "small extrusions or by a faulty model. Try to repair the model or change its "
 "orientation on the bed."
 msgstr ""
-"Stellen Sie sicher, dass das Objekt druckbar ist. Dies wird in der Regel "
+"Zawěsćiće so, zo da so objekt čisćeć Stellen Sie sicher, dass das Objekt druckbar ist. Dies wird in der Regel "
 "durch vernachlässigbar kleine Extrusionen oder durch ein fehlerhaftes Modell "
 "verursacht. Versuchen Sie, das Modell zu reparieren oder seine Ausrichtung "
 "auf dem Bett zu ändern."
