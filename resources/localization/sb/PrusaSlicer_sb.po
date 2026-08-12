@@ -275,132 +275,132 @@ msgid ""
 "small extrusions or by a faulty model. Try to repair the model or change its "
 "orientation on the bed."
 msgstr ""
-"Zawěsćiće so, zo da so objekt čisćeć Stellen Sie sicher, dass das Objekt druckbar ist. Dies wird in der Regel "
-"durch vernachlässigbar kleine Extrusionen oder durch ein fehlerhaftes Modell "
-"verursacht. Versuchen Sie, das Modell zu reparieren oder seine Ausrichtung "
-"auf dem Bett zu ändern."
+"Zawěsćiće so, zo da so objekt čisćeć. Problem nastanje zwjetša "
+"přez jara małe ekstruzije abo přez model z zmylkami. "
+"Spytajće model reparować abo wusměrjenje "
+"na łožu změnić."
 
 #: src/libslic3r/GCode.cpp:527 src/libslic3r/PrintConfig.cpp:3133
 #: src/libslic3r/PrintConfig.cpp:3152 src/slic3r/GUI/Tab.cpp:2364
 #: src/slic3r/GUI/Tab.cpp:2885
 msgid "Start G-code"
-msgstr "Start G-Code"
+msgstr "štartowy g-code"
 
 #: src/libslic3r/GCode.cpp:528 src/libslic3r/PrintConfig.cpp:1034
 #: src/libslic3r/PrintConfig.cpp:1044 src/slic3r/GUI/Tab.cpp:2375
 #: src/slic3r/GUI/Tab.cpp:2899
 msgid "End G-code"
-msgstr "Ende G-Code"
+msgstr "kónčny g-code"
 
 #: src/libslic3r/GCode.cpp:529 src/libslic3r/PrintConfig.cpp:639
 #: src/slic3r/GUI/Tab.cpp:2910
 msgid "Before layer change G-code"
-msgstr "G-Code vor dem Schichtwechsel"
+msgstr "g-code před změnjenjom woršty"
 
 #: src/libslic3r/GCode.cpp:530 src/libslic3r/PrintConfig.cpp:2131
 #: src/slic3r/GUI/Tab.cpp:2921
 msgid "After layer change G-code"
-msgstr "G-Code am Schichtende"
+msgstr "g-code na kóncu woršty"
 
 #: src/libslic3r/GCode.cpp:531 src/libslic3r/PrintConfig.cpp:3644
 #: src/slic3r/GUI/Tab.cpp:2932
 msgid "Tool change G-code"
-msgstr "G-Code für Werkzeugwechsel"
+msgstr "g-code za změnu nastroja"
 
 #: src/libslic3r/GCode.cpp:532 src/slic3r/GUI/Tab.cpp:2943
 msgid "Between objects G-code (for sequential printing)"
-msgstr "G-Code zwischen Objekten (Sequentielles Drucken)"
+msgstr "g-code mjez objektami (seqentiellne ćišćenje)"
 
 #: src/libslic3r/GCode.cpp:533 src/slic3r/GUI/Tab.cpp:2954
 msgid "Color Change G-code"
-msgstr "G-Code für Farbwechsel"
+msgstr "g-code za změnu barby"
 
 #: src/libslic3r/GCode.cpp:534 src/libslic3r/PrintConfig.cpp:3178
 #: src/slic3r/GUI/Tab.cpp:2964
 msgid "Pause Print G-code"
-msgstr "Druckpausen G-Code"
+msgstr "g-code za ćišćensku přestawku"
 
 #: src/libslic3r/GCode.cpp:535 src/slic3r/GUI/Tab.cpp:2974
 msgid "Template Custom G-code"
-msgstr "Vorlage Benutzerdefinierter G-Code"
+msgstr "předłoha za swójski g-code"
 
 #: src/libslic3r/GCode.cpp:538
 msgid "Filament Start G-code"
-msgstr "Filament Start G-code"
+msgstr "filament štartowy g-code"
 
 #: src/libslic3r/GCode.cpp:545
 msgid "Filament End G-code"
-msgstr "Filament Ende G-code"
+msgstr "filament kóncowy g-code"
 
 #: src/libslic3r/miniz_extension.cpp:114
 msgid "unsupported multidisk archive"
-msgstr "nicht unterstütztes Multidisk-Archiv"
+msgstr "njepodpěrany multidisk-achriv"
 
 #: src/libslic3r/miniz_extension.cpp:130
 msgid "file create failed"
-msgstr "Dateierzeugen fehlgeschlagen"
+msgstr "nastaće dataje njeje so poradźiło"
 
 #: src/libslic3r/miniz_extension.cpp:132
 msgid "file write failed"
-msgstr "Schreiben der Datei fehlgeschlagen"
+msgstr "pisanje dataje njeje so poradźiło"
 
 #: src/libslic3r/miniz_extension.cpp:134
 msgid "file read failed"
-msgstr "Dateilesen fehlgeschlagen"
+msgstr "čitanje dataje njeje so poradźiło"
 
 #: src/libslic3r/miniz_extension.cpp:136
 msgid "file close failed"
-msgstr "Dateischließen fehlgeschlagen"
+msgstr "začinjenje dataje njeje so poradźiło"
 
 #: src/libslic3r/miniz_extension.cpp:138
 msgid "file seek failed"
-msgstr "Dateizugriff fehlgeschlagen"
+msgstr "přistup k dataji njeje so poradźił"
 
 #: src/libslic3r/miniz_extension.cpp:140
 msgid "file stat failed"
-msgstr "Zugriff auf Dateieigenschaften fehlgeschlagen"
+msgstr "přistup k kajkosćam dataje njeje so poradźił"
 
 #: src/libslic3r/miniz_extension.cpp:146
 msgid "buffer too small"
-msgstr "Puffer zu klein"
+msgstr "buffer je přemały"
 
 #: src/libslic3r/miniz_extension.cpp:148
 msgid "internal error"
-msgstr "interner Fehler"
+msgstr ""interny zmylk
 
 #: src/libslic3r/miniz_extension.cpp:150
 msgid "file not found"
-msgstr "Datei nicht gefunden"
+msgstr "dataja njeje so namakała"
 
 #: src/libslic3r/miniz_extension.cpp:152
 msgid "archive is too large"
-msgstr "Archiv ist zu groß"
+msgstr "archiv je pře wulki"
 
 #: src/libslic3r/miniz_extension.cpp:154
 msgid "validation failed"
-msgstr "Überprüfung fehlgeschlagen"
+msgstr "přepruwowanje njeje so poradźiło"
 
 #: src/libslic3r/miniz_extension.cpp:156
 msgid "write calledback failed"
-msgstr "Schreibabruf fehlgeschlagen"
+msgstr "wotwołanje pisaneho njeje so poradźiło"
 
 #: src/libslic3r/Preset.cpp:1647 src/slic3r/GUI/ConfigSnapshotDialog.cpp:68
 msgid "print"
-msgstr "Druck"
+msgstr "ćišć"
 
 #: src/libslic3r/Preset.cpp:1648 src/slic3r/GUI/ConfigWizard.cpp:1004
 msgid "filament"
-msgstr "Filament"
+msgstr "filament"
 
 #: src/libslic3r/Preset.cpp:1649 src/slic3r/GUI/ConfigSnapshotDialog.cpp:72
 msgid "SLA print"
-msgstr "SLA Druck"
+msgstr "SLA ćišć"
 
 #: src/libslic3r/Preset.cpp:1650 src/slic3r/GUI/ConfigSnapshotDialog.cpp:73
 #: src/slic3r/GUI/ConfigWizard.cpp:1004 src/slic3r/GUI/GUI.cpp:217
 #: src/slic3r/GUI/Sidebar.cpp:406
 msgid "SLA material"
-msgstr "SLA Material"
+msgstr "SLA material"
 
 #: src/libslic3r/Print.cpp:523
 #, boost-format
